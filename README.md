@@ -1,4 +1,1 @@
-Git no.1 PhumipatJatikawanit \n
-Git no.2 pannasit chairungsrilert \n
-Git no.3 \n
-Git no.4 \n
+<p>Git no.1 PhumipatJatikawanit<br> Git no.2 pannasit chairungsrilert <br>Git no.3 <br>Git no.4<p>
